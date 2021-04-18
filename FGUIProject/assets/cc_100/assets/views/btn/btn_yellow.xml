@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="242,106" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="1"/>
+  <displayList>
+    <image id="n0_uev3" name="btn_yellow" src="hi0u21" fileName="assets/common/ui/btn_yellow.png" xy="0,0" size="242,106" aspect="true">
+      <gearDisplay controller="button" pages="0,1,2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_uev3" name="btn_yellow" src="hi0u21" fileName="assets/common/ui/btn_yellow.png" xy="-12,-6" size="264,116" aspect="true">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2_uev3" name="n2" xy="85,25" size="67,48" fontSize="35" color="#ffffcc" align="center" vAlign="middle" strokeColor="#c17528" strokeSize="2" text="1 倍"/>
+  </displayList>
+  <Button/>
+</component>

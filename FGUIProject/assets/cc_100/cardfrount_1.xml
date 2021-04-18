@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="260,137">
+  <displayList>
+    <loader id="n49_uev3" name="card_0" xy="0,0" size="100,137" group="n54_uev3" aspect="true" url="ui://spf3kkkghi0u39" fill="scaleNoBorder"/>
+    <loader id="n50_uev3" name="card_1" xy="40,0" size="100,137" group="n54_uev3" aspect="true" url="ui://spf3kkkghi0u39" fill="scaleNoBorder"/>
+    <loader id="n51_uev3" name="card_2" xy="80,0" size="100,137" group="n54_uev3" aspect="true" url="ui://spf3kkkghi0u39" fill="scaleNoBorder"/>
+    <loader id="n52_uev3" name="card_3" xy="120,0" size="100,137" group="n54_uev3" aspect="true" url="ui://spf3kkkghi0u39" fill="scaleNoBorder"/>
+    <loader id="n53_uev3" name="card_4" xy="160,0" size="100,137" group="n54_uev3" aspect="true" url="ui://spf3kkkghi0u39" fill="scaleNoBorder"/>
+    <image id="n101_uev3" name="tx_niuniu" src="uev379" fileName="assets/game/cn/tx_niuniu_1.png" xy="16,34" pivot="0.5,0.5" group="n54_uev3" rotation="-10"/>
+    <group id="n54_uev3" name="card" xy="0,0" size="260,137"/>
+  </displayList>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="345,145" pivot="0,1">
+  <controller name="ctrlWinLose" exported="true" pages="0,win,1,lose" selected="0"/>
+  <displayList>
+    <image id="n0_uev3" name="n0" src="hi0u28" fileName="assets/common/ui/pic_headFrame.png" xy="81,28" size="260,104"/>
+    <component id="n1_uev3" name="avatar" src="hi0u6q" fileName="assets/views/avatar.xml" xy="6,3"/>
+    <image id="n2_uev3" name="n1" src="hi0u27" fileName="assets/common/ui/pic_headBg.png.png" xy="5,2"/>
+    <text id="n3_uev3" name="textName" xy="158,40" size="106,34" fontSize="24" color="#ffffff" text="cxvfd999"/>
+    <image id="n4_uev3" name="n3" src="hi0u22" fileName="assets/common/ui/pic_balanceBg.png" xy="158,80" size="170,40"/>
+    <text id="n5_uev3" name="textBalance" xy="193,85" size="120,29" font="arial" fontSize="20" color="#ffff00" text="1,190,888.60"/>
+    <image id="n6_uev3" name="n4" src="hi0u24" fileName="assets/common/ui/pic_coin.png" xy="163,85" size="30,30" aspect="true"/>
+    <text id="n7_uev3" name="textWinLose" xy="46,-74" size="117,66" font="arial" fontSize="50" color="#ffff99" align="center" vars="true" bold="true" strokeColor="#ff0000" strokeSize="2" text="+{result=100}">
+      <gearColor controller="ctrlWinLose" pages="0" values="#ffff99,#ff0000" default="#cdffb7,#003300"/>
+      <gearText controller="ctrlWinLose" pages="0,1" values="+{result=100}|-{result=100}"/>
+    </text>
+  </displayList>
+</component>

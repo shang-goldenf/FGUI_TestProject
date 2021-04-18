@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="mxqfrtql">
+  <resources>
+    <component id="p8v50" name="ani_start.xml" path="/" exported="true"/>
+    <misc id="p8v57" name="ani_start.atlas" path="/assets/game/animation/"/>
+    <image id="p8v58" name="ani_start.png" path="/assets/game/animation/"/>
+    <spine id="p8v56" name="ani_start.json" path="/assets/game/animation/" width="2030" height="1080" require="p8v57,p8v58" atlasNames="ani_start" anchor="960,540"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>

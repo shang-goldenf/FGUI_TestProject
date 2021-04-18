@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="693,177">
+  <displayList>
+    <image id="n6_hi0u" name="card_0" src="hi0u4n" fileName="assets/common/poker/card_54.png" xy="0,0" pivot="0.5,0.5" group="n12_hi0u"/>
+    <image id="n7_hi0u" name="card_1" src="hi0u4n" fileName="assets/common/poker/card_54.png" xy="141,0" pivot="0.5,0.5" group="n12_hi0u"/>
+    <image id="n8_hi0u" name="card_2" src="hi0u4n" fileName="assets/common/poker/card_54.png" xy="282,0" pivot="0.5,0.5" group="n12_hi0u"/>
+    <image id="n9_hi0u" name="card_3" src="hi0u4n" fileName="assets/common/poker/card_54.png" xy="423,0" pivot="0.5,0.5" group="n12_hi0u"/>
+    <image id="n10_hi0u" name="card_4" src="hi0u4n" fileName="assets/common/poker/card_54.png" xy="564,0" pivot="0.5,0.5" group="n12_hi0u"/>
+    <group id="n12_hi0u" name="card" xy="0,0" size="693,177"/>
+  </displayList>
+</component>

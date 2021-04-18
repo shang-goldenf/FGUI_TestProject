@@ -1,0 +1,104 @@
+
+ani_wuxiaoniu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5小牛/牙亮光
+  rotate: true
+  xy: 461, 383
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+5小牛/黄光
+  rotate: true
+  xy: 2, 108
+  size: 398, 295
+  orig: 404, 295
+  offset: 4, 0
+  index: -1
+di01
+  rotate: false
+  xy: 2, 2
+  size: 265, 104
+  orig: 265, 104
+  offset: 0, 0
+  index: -1
+di02
+  rotate: false
+  xy: 269, 3
+  size: 265, 103
+  orig: 265, 103
+  offset: 0, 0
+  index: -1
+五小牛
+  rotate: true
+  xy: 299, 267
+  size: 239, 90
+  orig: 242, 93
+  offset: 1, 2
+  index: -1
+五小牛light
+  rotate: true
+  xy: 391, 289
+  size: 217, 68
+  orig: 242, 93
+  offset: 13, 12
+  index: -1
+小牛body
+  rotate: true
+  xy: 416, 173
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+小牛右眼
+  rotate: false
+  xy: 461, 289
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+小牛左手
+  rotate: true
+  xy: 444, 132
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+小牛左眼
+  rotate: true
+  xy: 461, 317
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+小牛輪
+  rotate: false
+  xy: 461, 423
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+小牛頭
+  rotate: true
+  xy: 299, 127
+  size: 138, 115
+  orig: 138, 115
+  offset: 0, 0
+  index: -1
+小牛鼻環
+  rotate: true
+  xy: 416, 127
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+鈴鐺
+  rotate: false
+  xy: 461, 349
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1

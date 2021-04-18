@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <loader3D id="n0_p8v5" name="spine" xy="0,0" size="1280,720" url="ui://mxqfrtqlp8v56" fill="scale" shrinkOnly="true" animation="animation" skin="" playing="false" loop="false"/>
+  </displayList>
+</component>

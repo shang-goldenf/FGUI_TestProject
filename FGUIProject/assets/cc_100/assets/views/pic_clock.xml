@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="126,126">
+  <displayList>
+    <image id="n0_uev3" name="pic_clock" src="hi0u23" fileName="assets/common/ui/pic_clock.png" xy="0,0"/>
+    <text id="n1_uev3" name="n1" xy="45,24" size="37,79" font="font" fontSize="60" color="#652700" bold="true" text="0"/>
+  </displayList>
+</component>

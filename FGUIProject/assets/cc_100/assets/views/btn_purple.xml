@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="284,120" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n2_uev3" name="btn_purple" src="uev39y" fileName="assets/common/ui/btn_purple.png" xy="0,0" size="284,120" aspect="true">
+      <gearDisplay controller="button" pages="0,1,2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n3_uev3" name="n3" xy="43,26" pivot="0.5,0.5" size="204,66" fontSize="50" color="#ffffe5" strokeColor="#990066" strokeSize="2" shadowColor="#330066" shadowOffset="0,8" text="开始匹配"/>
+  </displayList>
+  <Button/>
+</component>

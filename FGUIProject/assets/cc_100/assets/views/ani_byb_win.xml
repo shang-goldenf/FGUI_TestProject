@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <image id="n2_uev3" name="pic_black" src="uev38k" fileName="assets/common/ui/pic_black.png" xy="0,0" pivot="0.5,0.5" size="1920,1080" alpha="0.7"/>
+    <text id="n21_uev3" name="n21" xy="800,737" pivot="0.5,0.5" size="317,154" fontSize="120" color="#ffffcc" bold="true" strokeColor="#cc3300" strokeSize="2" shadowColor="#cc3300" shadowOffset="1,6" text="+9.99"/>
+    <loader3D id="n36_uev3" name="n36" xy="391,51" size="1068,774" url="ui://spf3kkkguev38y" animation="" skin="" loop="true"/>
+    <text id="n37_uev3" name="n37" xy="746,368" pivot="0.5,0.5" size="425,179" fontSize="140" color="#ffffff" bold="true" strokeColor="#ffcc00" strokeSize="2" shadowColor="#ff6600" shadowOffset="1,6" text="x1.3倍"/>
+    <component id="n38_uev3" name="n38" src="uev39w" fileName="assets/views/btn_orange.xml" xy="620,912"/>
+    <component id="n39_uev3" name="n39" src="uev39x" fileName="assets/views/btn_purple.xml" xy="1000,907"/>
+    <text id="n40_uev3" name="n40" xy="1368,54" size="437,42" fontSize="30" color="#ffffff" text="对局编号：DNIOHUGYGUILBJK"/>
+  </displayList>
+</component>

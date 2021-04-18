@@ -1,0 +1,62 @@
+
+ani_bybLose.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+失败/丝带
+  rotate: false
+  xy: 2, 64
+  size: 440, 94
+  orig: 440, 94
+  offset: 0, 0
+  index: -1
+失败/云朵_右边
+  rotate: false
+  xy: 444, 55
+  size: 206, 103
+  orig: 206, 103
+  offset: 0, 0
+  index: -1
+失败/云朵_左边
+  rotate: false
+  xy: 580, 178
+  size: 206, 103
+  orig: 206, 103
+  offset: 0, 0
+  index: -1
+失败/椭圆_1
+  rotate: false
+  xy: 2, 160
+  size: 576, 337
+  orig: 576, 337
+  offset: 0, 0
+  index: -1
+失败/背景光1
+  rotate: false
+  xy: 580, 283
+  size: 400, 214
+  orig: 400, 214
+  offset: 0, 0
+  index: -1
+失败/背景光2_
+  rotate: true
+  xy: 789, 10
+  size: 271, 270
+  orig: 271, 270
+  offset: 0, 0
+  index: -1
+失败/闪光
+  rotate: true
+  xy: 652, 22
+  size: 154, 135
+  orig: 154, 135
+  offset: 0, 0
+  index: -1
+未中奖
+  rotate: false
+  xy: 2, 2
+  size: 177, 60
+  orig: 177, 60
+  offset: 0, 0
+  index: -1

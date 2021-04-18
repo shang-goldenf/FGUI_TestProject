@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <image id="n58_uev3" name="pic_black" src="uev38k" fileName="assets/common/ui/pic_black.png" xy="0,0" pivot="0.5,0.5" size="1920,1080" alpha="0.7"/>
+    <image id="n1_uev3" name="pic_winBg" src="hi0u2h" fileName="assets/common/ui/pic_winBg.png" xy="0,314" size="1920,520"/>
+    <loader3D id="n0_uev3" name="ani_win" xy="0,0" size="1923,1126" url="ui://spf3kkkguev384" animation="" skin="" loop="true"/>
+    <image id="n3_uev3" name="n3" src="hi0u2i" fileName="assets/common/ui/pic_winList.png" xy="0,430" size="1920,76" group="n11_uev3" color="#646464"/>
+    <image id="n6_uev3" name="n6" src="hi0u2i" fileName="assets/common/ui/pic_winList.png" xy="0,506" size="1920,76" group="n11_uev3" color="#646464"/>
+    <image id="n7_uev3" name="n7" src="hi0u2i" fileName="assets/common/ui/pic_winList.png" xy="0,582" size="1920,76" group="n11_uev3" color="#646464"/>
+    <image id="n8_uev3" name="n8" src="hi0u2i" fileName="assets/common/ui/pic_winList.png" xy="0,658" size="1920,76" group="n11_uev3" color="#646464"/>
+    <image id="n9_uev3" name="n9" src="hi0u2i" fileName="assets/common/ui/pic_winList.png" xy="0,734" size="1920,76" group="n11_uev3" color="#646464"/>
+    <group id="n11_uev3" name="n11" xy="0,430" size="1920,380"/>
+    <image id="n12_uev3" name="n12" src="hi0u2i" fileName="assets/common/ui/pic_winList.png" xy="0,430" size="1920,76"/>
+    <text id="n13_uev3" name="n13" xy="450,374" pivot="0.5,0.5" size="84,54" group="n18_uev3" fontSize="40" color="#ffe6cd" text="昵称"/>
+    <text id="n14_uev3" name="n14" xy="684,374" pivot="0.5,0.5" size="84,54" group="n18_uev3" fontSize="40" color="#ffe6cd" text="牌型"/>
+    <text id="n15_uev3" name="n15" xy="918,374" pivot="0.5,0.5" size="84,54" group="n18_uev3" fontSize="40" color="#ffe6cd" text="底分"/>
+    <text id="n16_uev3" name="n16" xy="1152,374" pivot="0.5,0.5" size="84,54" group="n18_uev3" fontSize="40" color="#ffe6cd" text="下注"/>
+    <text id="n17_uev3" name="n17" xy="1386,374" pivot="0.5,0.5" size="84,54" group="n18_uev3" fontSize="40" color="#ffe6cd" text="得分"/>
+    <group id="n18_uev3" name="title" xy="450,374" size="1020,54"/>
+    <text id="n26_uev3" name="n26" xy="425,444" pivot="0.5,0.5" size="132,48" group="n31_uev3" fontSize="35" color="#ffcc00" align="center" text="****999"/>
+    <text id="n27_uev3" name="n27" xy="691,444" pivot="0.5,0.5" size="74,48" group="n31_uev3" fontSize="35" color="#ffcc00" align="center" text="牛牛"/>
+    <text id="n28_uev3" name="n28" xy="932,444" pivot="0.5,0.5" size="64,48" group="n31_uev3" fontSize="35" color="#ffcc00" align="center" text="888"/>
+    <text id="n29_uev3" name="n29" xy="1183,444" pivot="0.5,0.5" size="24,48" group="n31_uev3" fontSize="35" color="#ffcc00" align="center" text="8"/>
+    <text id="n30_uev3" name="n30" xy="1359,444" pivot="0.5,0.5" size="144,48" group="n31_uev3" fontSize="35" color="#ffcc00" align="center" vAlign="middle" text="+888888"/>
+    <group id="n31_uev3" name="Settlement_win" xy="425,444" size="1078,48"/>
+    <text id="n32_uev3" name="n32" xy="425,520" pivot="0.5,0.5" size="132,48" group="n37_uev3" fontSize="35" color="#ffffff" align="center" text="****999"/>
+    <text id="n33_uev3" name="n33" xy="691,520" pivot="0.5,0.5" size="74,48" group="n37_uev3" fontSize="35" color="#ffffff" align="center" text="牛牛"/>
+    <text id="n34_uev3" name="n34" xy="932,520" pivot="0.5,0.5" size="64,48" group="n37_uev3" fontSize="35" color="#ffffff" align="center" text="888"/>
+    <text id="n35_uev3" name="n35" xy="1183,520" pivot="0.5,0.5" size="24,48" group="n37_uev3" fontSize="35" color="#ffffff" align="center" text="8"/>
+    <text id="n36_uev3" name="n36" xy="1359,520" pivot="0.5,0.5" size="144,48" group="n37_uev3" fontSize="35" color="#ffffff" align="center" vAlign="middle" text="+888888"/>
+    <group id="n37_uev3" name="Settlement" xy="425,520" size="1078,48"/>
+    <text id="n38_uev3" name="n38" xy="425,596" pivot="0.5,0.5" size="132,48" group="n43_uev3" fontSize="35" color="#ffffff" align="center" text="****999"/>
+    <text id="n39_uev3" name="n39" xy="691,596" pivot="0.5,0.5" size="74,48" group="n43_uev3" fontSize="35" color="#ffffff" align="center" text="牛牛"/>
+    <text id="n40_uev3" name="n40" xy="932,596" pivot="0.5,0.5" size="64,48" group="n43_uev3" fontSize="35" color="#ffffff" align="center" text="888"/>
+    <text id="n41_uev3" name="n41" xy="1183,596" pivot="0.5,0.5" size="24,48" group="n43_uev3" fontSize="35" color="#ffffff" align="center" text="8"/>
+    <text id="n42_uev3" name="n42" xy="1359,596" pivot="0.5,0.5" size="144,48" group="n43_uev3" fontSize="35" color="#ffffff" align="center" vAlign="middle" text="+888888"/>
+    <group id="n43_uev3" name="Settlement" xy="425,596" size="1078,48"/>
+    <text id="n44_uev3" name="n44" xy="425,672" pivot="0.5,0.5" size="132,48" group="n49_uev3" fontSize="35" color="#ffffff" align="center" text="****999"/>
+    <text id="n45_uev3" name="n45" xy="691,672" pivot="0.5,0.5" size="74,48" group="n49_uev3" fontSize="35" color="#ffffff" align="center" text="牛牛"/>
+    <text id="n46_uev3" name="n46" xy="932,672" pivot="0.5,0.5" size="64,48" group="n49_uev3" fontSize="35" color="#ffffff" align="center" text="888"/>
+    <text id="n47_uev3" name="n47" xy="1183,672" pivot="0.5,0.5" size="24,48" group="n49_uev3" fontSize="35" color="#ffffff" align="center" text="8"/>
+    <text id="n48_uev3" name="n48" xy="1359,672" pivot="0.5,0.5" size="144,48" group="n49_uev3" fontSize="35" color="#ffffff" align="center" vAlign="middle" text="+888888"/>
+    <group id="n49_uev3" name="Settlement" xy="425,672" size="1078,48"/>
+    <text id="n50_uev3" name="n50" xy="425,748" pivot="0.5,0.5" size="132,48" group="n55_uev3" fontSize="35" color="#ffffff" align="center" text="****999"/>
+    <text id="n51_uev3" name="n51" xy="691,748" pivot="0.5,0.5" size="74,48" group="n55_uev3" fontSize="35" color="#ffffff" align="center" text="牛牛"/>
+    <text id="n52_uev3" name="n52" xy="932,748" pivot="0.5,0.5" size="64,48" group="n55_uev3" fontSize="35" color="#ffffff" align="center" text="888"/>
+    <text id="n53_uev3" name="n53" xy="1183,748" pivot="0.5,0.5" size="24,48" group="n55_uev3" fontSize="35" color="#ffffff" align="center" text="8"/>
+    <text id="n54_uev3" name="n54" xy="1359,748" pivot="0.5,0.5" size="144,48" group="n55_uev3" fontSize="35" color="#ffffff" align="center" vAlign="middle" text="+888888"/>
+    <group id="n55_uev3" name="Settlement" xy="425,748" size="1078,48"/>
+    <image id="n56_uev3" name="pic_crown" src="uev38h" fileName="assets/common/ui/pic_crown.png" xy="309,436"/>
+  </displayList>
+</component>

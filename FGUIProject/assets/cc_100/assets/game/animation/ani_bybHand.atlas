@@ -1,0 +1,27 @@
+
+ani_bybHand.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+手指移动/A
+  rotate: false
+  xy: 172, 31
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+手指移动/B
+  rotate: false
+  xy: 2, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+手指移动/手
+  rotate: false
+  xy: 100, 25
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1

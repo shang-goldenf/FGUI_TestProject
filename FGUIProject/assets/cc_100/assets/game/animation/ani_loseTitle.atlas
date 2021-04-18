@@ -1,0 +1,90 @@
+
+ani_loseTitle.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ebg_cloud_lose_l
+  rotate: true
+  xy: 2, 27
+  size: 482, 57
+  orig: 482, 57
+  offset: 0, 0
+  index: -1
+ebg_cloud_lose_r
+  rotate: false
+  xy: 843, 21
+  size: 346, 59
+  orig: 346, 59
+  offset: 0, 0
+  index: -1
+ebg_duandai_lose1
+  rotate: true
+  xy: 61, 105
+  size: 404, 122
+  orig: 404, 122
+  offset: 0, 0
+  index: -1
+ebg_duandai_lose2
+  rotate: false
+  xy: 843, 82
+  size: 179, 72
+  orig: 179, 72
+  offset: 0, 0
+  index: -1
+ebg_light_lose
+  rotate: false
+  xy: 561, 156
+  size: 569, 353
+  orig: 569, 353
+  offset: 0, 0
+  index: -1
+ebg_light_lose2
+  rotate: true
+  xy: 185, 106
+  size: 403, 374
+  orig: 403, 374
+  offset: 0, 0
+  index: -1
+ebg_title_lose
+  rotate: false
+  xy: 61, 23
+  size: 154, 80
+  orig: 154, 80
+  offset: 0, 0
+  index: -1
+ebg_title_lose1
+  rotate: false
+  xy: 217, 24
+  size: 152, 80
+  orig: 152, 80
+  offset: 0, 0
+  index: -1
+ebg_title_lose2
+  rotate: false
+  xy: 371, 24
+  size: 152, 80
+  orig: 152, 80
+  offset: 0, 0
+  index: -1
+ebg_title_lose3
+  rotate: false
+  xy: 525, 24
+  size: 152, 80
+  orig: 152, 80
+  offset: 0, 0
+  index: -1
+ebg_title_lose4
+  rotate: true
+  xy: 679, 2
+  size: 152, 80
+  orig: 152, 80
+  offset: 0, 0
+  index: -1
+ebg_title_lose5
+  rotate: true
+  xy: 761, 2
+  size: 152, 80
+  orig: 152, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="140,140" mask="n1_hi0u">
+  <displayList>
+    <image id="n0_hi0u" name="n0head" src="hi0u5i" fileName="assets/common/head/200x200/head_man_0.jpg" xy="0,0" pivot="0.5,0.5" size="140,140" aspect="true"/>
+    <image id="n1_hi0u" name="mask_player" src="hi0u29" fileName="assets/common/ui/pic_headMask.png.png" xy="0,0" pivot="0.5,0.5" size="140,140" aspect="true"/>
+  </displayList>
+</component>

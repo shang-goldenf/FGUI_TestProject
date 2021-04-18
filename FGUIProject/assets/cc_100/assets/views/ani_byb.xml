@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <image id="n2_uev3" name="pic_black" src="uev38k" fileName="assets/common/ui/pic_black.png" xy="0,0" pivot="0.5,0.5" size="1920,1080" alpha="0.7"/>
+    <image id="n1_uev3" name="n1" src="uev39o" fileName="assets/game/byb/pic_byb_2.png" xy="640,111"/>
+    <image id="n25_uev3" name="card" src="uev39m" fileName="assets/game/byb/pic_byb_0.png" xy="265,419" group="n8_uev3"/>
+    <image id="n26_uev3" name="card" src="uev39m" fileName="assets/game/byb/pic_byb_0.png" xy="551,419" group="n8_uev3"/>
+    <image id="n27_uev3" name="card" src="uev39m" fileName="assets/game/byb/pic_byb_0.png" xy="837,419" group="n8_uev3"/>
+    <image id="n28_uev3" name="card" src="uev39m" fileName="assets/game/byb/pic_byb_0.png" xy="1123,419" group="n8_uev3"/>
+    <image id="n29_uev3" name="card" src="uev39m" fileName="assets/game/byb/pic_byb_0.png" xy="1409,419" group="n8_uev3"/>
+    <image id="n9_uev3" name="n9" src="uev39q" fileName="assets/game/byb/pic_byb_4.png" xy="323,475" group="n8_uev3"/>
+    <image id="n10_uev3" name="n10" src="uev39p" fileName="assets/game/byb/pic_byb_3.png" xy="588,490" group="n8_uev3"/>
+    <image id="n11_uev3" name="n11" src="uev39s" fileName="assets/game/byb/pic_byb_6.png" xy="883,492" group="n8_uev3"/>
+    <image id="n12_uev3" name="n12" src="uev39t" fileName="assets/game/byb/pic_byb_7.png" xy="1440,479" group="n8_uev3"/>
+    <image id="n13_uev3" name="n13" src="uev39r" fileName="assets/game/byb/pic_byb_5.png" xy="1168,491" group="n8_uev3"/>
+    <text id="n14_uev3" name="n14" xy="325,636" pivot="0.5,0.5" size="124,54" group="n8_uev3" fontSize="40" color="#ffff99" strokeColor="#ff3300" strokeSize="2" text="未中奖"/>
+    <text id="n16_uev3" name="n16" xy="612,636" pivot="0.5,0.5" size="123,54" group="n8_uev3" fontSize="40" color="#ffff99" strokeColor="#ff3300" strokeSize="2" text="x1.3倍"/>
+    <text id="n17_uev3" name="n17" xy="898,636" pivot="0.5,0.5" size="123,54" group="n8_uev3" fontSize="40" color="#ffff99" strokeColor="#ff3300" strokeSize="2" text="x1.8倍"/>
+    <text id="n19_uev3" name="n19" xy="1202,634" pivot="0.5,0.5" size="88,54" group="n8_uev3" fontSize="40" color="#ffff99" strokeColor="#ff3300" strokeSize="2" text="x3倍"/>
+    <text id="n20_uev3" name="n20" xy="1473,634" pivot="0.5,0.5" size="123,54" group="n8_uev3" fontSize="40" color="#ffff99" strokeColor="#ff3300" strokeSize="2" text="x3.5倍"/>
+    <group id="n8_uev3" name="card_byb_open" xy="265,419" size="1390,331"/>
+    <text id="n21_uev3" name="n21" xy="737,795" pivot="0.5,0.5" size="444,79" fontSize="60" color="#ffffff" strokeColor="#cc3300" strokeSize="2" shadowColor="#cc3300" shadowOffset="1,6" text="下注金额 : 99.99"/>
+    <text id="n23_uev3" name="n23" xy="490,909" pivot="0.5,0.5" size="938,54" fontSize="40" color="#ffffff" text="请点击选择一张扑克牌翻开，      后不选择将自动翻开"/>
+    <text id="n24_uev3" name="n24" xy="1009,909" pivot="0.5,0.5" size="46,54" fontSize="40" color="#ffcc00" text="5s"/>
+    <image id="n0_uev3" name="n0" src="uev39n" fileName="assets/game/byb/pic_byb_1.png" xy="265,419" group="n30_uev3"/>
+    <image id="n3_uev3" name="n3" src="uev39n" fileName="assets/game/byb/pic_byb_1.png" xy="551,419" group="n30_uev3"/>
+    <image id="n5_uev3" name="n5" src="uev39n" fileName="assets/game/byb/pic_byb_1.png" xy="837,419" group="n30_uev3"/>
+    <image id="n6_uev3" name="n6" src="uev39n" fileName="assets/game/byb/pic_byb_1.png" xy="1123,419" group="n30_uev3"/>
+    <image id="n7_uev3" name="n7" src="uev39n" fileName="assets/game/byb/pic_byb_1.png" xy="1409,419" group="n30_uev3"/>
+    <group id="n30_uev3" name="card_byb_back" xy="265,419" size="1390,331"/>
+    <loader3D id="n31_uev3" name="n31" xy="318,510" size="171,196" url="ui://spf3kkkguev38q" animation="" skin="" loop="true"/>
+    <loader3D id="n32_uev3" name="n32" xy="608,510" size="171,196" url="ui://spf3kkkguev38q" animation="" skin="" loop="true"/>
+    <loader3D id="n33_uev3" name="n33" xy="892,510" size="171,196" url="ui://spf3kkkguev38q" animation="" skin="" loop="true"/>
+    <loader3D id="n34_uev3" name="n34" xy="1178,510" size="171,196" url="ui://spf3kkkguev38q" animation="" skin="" loop="true"/>
+    <loader3D id="n35_uev3" name="n35" xy="1464,510" size="171,196" url="ui://spf3kkkguev38q" animation="" skin="" loop="true"/>
+  </displayList>
+</component>

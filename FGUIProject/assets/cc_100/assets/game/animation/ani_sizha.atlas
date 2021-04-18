@@ -1,0 +1,202 @@
+
+ani_sizha.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 487, 635
+  size: 106, 85
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 1070, 305
+  size: 185, 176
+  orig: 186, 177
+  offset: 1, 0
+  index: -1
+04
+  rotate: true
+  xy: 869, 114
+  size: 208, 199
+  orig: 208, 200
+  offset: 0, 1
+  index: -1
+06
+  rotate: true
+  xy: 983, 783
+  size: 232, 228
+  orig: 233, 230
+  offset: 0, 1
+  index: -1
+08
+  rotate: false
+  xy: 966, 492
+  size: 252, 256
+  orig: 253, 257
+  offset: 1, 1
+  index: -1
+10
+  rotate: false
+  xy: 588, 358
+  size: 270, 275
+  orig: 272, 275
+  offset: 1, 0
+  index: -1
+12
+  rotate: false
+  xy: 594, 728
+  size: 282, 287
+  orig: 284, 287
+  offset: 1, 0
+  index: -1
+14
+  rotate: false
+  xy: 309, 722
+  size: 283, 293
+  orig: 284, 293
+  offset: 1, 0
+  index: -1
+16
+  rotate: false
+  xy: 579, 5
+  size: 288, 308
+  orig: 289, 308
+  offset: 1, 0
+  index: -1
+18
+  rotate: false
+  xy: 2, 315
+  size: 291, 311
+  orig: 292, 311
+  offset: 1, 0
+  index: -1
+20
+  rotate: false
+  xy: 2, 2
+  size: 291, 311
+  orig: 292, 311
+  offset: 1, 0
+  index: -1
+22
+  rotate: false
+  xy: 295, 315
+  size: 291, 311
+  orig: 292, 311
+  offset: 1, 0
+  index: -1
+24
+  rotate: false
+  xy: 295, 3
+  size: 282, 310
+  orig: 283, 311
+  offset: 1, 0
+  index: -1
+biglight
+  rotate: true
+  xy: 2, 628
+  size: 387, 305
+  orig: 387, 305
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1213, 788
+  size: 198, 227
+  orig: 198, 227
+  offset: 0, 0
+  index: -1
+bomb1
+  rotate: false
+  xy: 1063, 12
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+bomb2
+  rotate: false
+  xy: 869, 12
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+bomb3
+  rotate: false
+  xy: 966, 12
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 860, 324
+  size: 135, 106
+  orig: 135, 106
+  offset: 0, 0
+  index: -1
+di01
+  rotate: true
+  xy: 860, 461
+  size: 265, 104
+  orig: 265, 104
+  offset: 0, 0
+  index: -1
+di02
+  rotate: true
+  xy: 878, 750
+  size: 265, 103
+  orig: 265, 103
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 656, 333
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 625, 324
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 588, 315
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+handean
+  rotate: false
+  xy: 650, 635
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 650, 655
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+sobi
+  rotate: false
+  xy: 595, 646
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+炸彈
+  rotate: false
+  xy: 309, 630
+  size: 176, 90
+  orig: 176, 97
+  offset: 0, 2
+  index: -1

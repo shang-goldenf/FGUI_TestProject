@@ -1,0 +1,132 @@
+
+ani_sihuaniu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4花牛/牙亮光
+  rotate: true
+  xy: 83, 7
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+4花牛/花1
+  rotate: false
+  xy: 359, 146
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+4花牛/花2
+  rotate: true
+  xy: 376, 88
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+4花牛/花3
+  rotate: false
+  xy: 359, 113
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+4花牛/花4
+  rotate: false
+  xy: 359, 89
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+4花牛/花5
+  rotate: false
+  xy: 37, 2
+  size: 44, 43
+  orig: 56, 53
+  offset: 6, 7
+  index: -1
+4花牛/花6
+  rotate: false
+  xy: 37, 2
+  size: 44, 43
+  orig: 56, 53
+  offset: 6, 7
+  index: -1
+4花牛/花7
+  rotate: false
+  xy: 37, 2
+  size: 44, 43
+  orig: 56, 53
+  offset: 6, 7
+  index: -1
+4花牛/花8
+  rotate: false
+  xy: 37, 2
+  size: 44, 43
+  orig: 56, 53
+  offset: 6, 7
+  index: -1
+biglight
+  rotate: false
+  xy: 2, 177
+  size: 387, 305
+  orig: 387, 305
+  offset: 0, 0
+  index: -1
+cowbody
+  rotate: true
+  xy: 391, 289
+  size: 193, 201
+  orig: 193, 201
+  offset: 0, 0
+  index: -1
+coweye
+  rotate: false
+  xy: 2, 40
+  size: 33, 5
+  orig: 33, 5
+  offset: 0, 0
+  index: -1
+cowhead
+  rotate: false
+  xy: 2, 47
+  size: 137, 128
+  orig: 137, 128
+  offset: 0, 0
+  index: -1
+di01
+  rotate: true
+  xy: 594, 217
+  size: 265, 104
+  orig: 265, 104
+  offset: 0, 0
+  index: -1
+di02
+  rotate: true
+  xy: 391, 22
+  size: 265, 103
+  orig: 265, 103
+  offset: 0, 0
+  index: -1
+flower
+  rotate: true
+  xy: 141, 19
+  size: 84, 88
+  orig: 84, 88
+  offset: 0, 0
+  index: -1
+四花牛
+  rotate: true
+  xy: 496, 49
+  size: 238, 92
+  orig: 241, 95
+  offset: 1, 2
+  index: -1
+四花牛light
+  rotate: false
+  xy: 141, 105
+  size: 216, 70
+  orig: 241, 95
+  offset: 12, 13
+  index: -1

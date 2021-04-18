@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="420,80">
+  <displayList>
+    <text id="n1_hi0u" name="textRound" xy="0,0" size="406,39" fontSize="28" color="#ffffff" vars="true" text="对局编号：{round=DNIOHUGYGUILBJK}"/>
+    <text id="n2_uev3" name="textAmount" xy="0,40" size="182,39" fontSize="28" color="#ffffff" vars="true" text="新手场 底注: {amount=1}"/>
+  </displayList>
+</component>
